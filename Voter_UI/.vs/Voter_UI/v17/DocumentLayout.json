@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\views\\voterui\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\views\\voterui\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\controllers\\voteruicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\controllers\\voteruicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\models\\voteruimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\models\\voteruimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\wwwroot\\js\\voter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\wwwroot\\js\\voter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_ui\\voter_ui\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9D619B0B-C147-4693-8D8A-874607C614A3}|Voter_UI\\Voter_UI.csproj|solutionrelative:voter_ui\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "voter.js",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\js\\voter.js",
+              "RelativeDocumentMoniker": "Voter_UI\\wwwroot\\js\\voter.js",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\js\\voter.js",
+              "RelativeToolTip": "Voter_UI\\wwwroot\\js\\voter.js",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAmwHkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-10T06:17:54.072Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VoterUIModel.cs",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\Models\\VoterUIModel.cs",
+              "RelativeDocumentMoniker": "Voter_UI\\Models\\VoterUIModel.cs",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\Models\\VoterUIModel.cs",
+              "RelativeToolTip": "Voter_UI\\Models\\VoterUIModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:16:40.735Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoterUIController.cs",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\Controllers\\VoterUIController.cs",
+              "RelativeDocumentMoniker": "Voter_UI\\Controllers\\VoterUIController.cs",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\Controllers\\VoterUIController.cs",
+              "RelativeToolTip": "Voter_UI\\Controllers\\VoterUIController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwCsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:16:16.147Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\Views\\VoterUI\\Index.cshtml",
+              "RelativeDocumentMoniker": "Voter_UI\\Views\\VoterUI\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\Views\\VoterUI\\Index.cshtml",
+              "RelativeToolTip": "Voter_UI\\Views\\VoterUI\\Index.cshtml",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAIwLIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T05:53:11.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\Program.cs",
+              "RelativeDocumentMoniker": "Voter_UI\\Program.cs",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\Program.cs",
+              "RelativeToolTip": "Voter_UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:52:56.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Voter_UI\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Voter_UI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T12:30:27.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\appsettings.json",
+              "RelativeDocumentMoniker": "Voter_UI\\appsettings.json",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\appsettings.json",
+              "RelativeToolTip": "Voter_UI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T06:52:49.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "jquery.validate.unobtrusive.js",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeDocumentMoniker": "Voter_UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeToolTip": "Voter_UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ViewState": "AQIAAIMAAAAAAAAAAADwvwIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-13T09:42:48.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "Voter_UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "Voter_UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-13T09:43:03.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAACwWAAAAAAAAAIAwwDwWAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-13T09:41:14.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap-utilities.css",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeDocumentMoniker": "Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeToolTip": "Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-13T09:41:04.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AQIAAPcAAAAAAAAAAIAwwAcBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-13T09:40:44.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "Voter_UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-13T09:40:38.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "jquery.js",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "Voter_UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "Voter_UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-13T09:40:23.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Voter_UI\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Voter_UI\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T06:29:44.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Voter_UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_UI\\Voter_UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Voter_UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T07:28:06.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

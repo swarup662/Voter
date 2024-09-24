@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Voter_API.props" />
+</Project>

@@ -1,0 +1,195 @@
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.csproj.AssemblyReference.cache
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.AssemblyInfoInputs.cache
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.AssemblyInfo.cs
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.csproj.CoreCompileInputs.cache
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\appsettings.json
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.exe
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.deps.json
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.runtimeconfig.json
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.dll
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.pdb
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.Voter_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Voter_API.props
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Voter_API.props
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Voter_API.props
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\scopedcss\bundle\Voter_API.styles.css
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.csproj.Up2Date
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.dll
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\refint\Voter_API.dll
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.pdb
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.genruntimeconfig.cache
+C:\Users\Sandip Mondal\source\repos\Voter_API\Voter_API\obj\Debug\net7.0\ref\Voter_API.dll
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\appsettings.Development.json
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\appsettings.json
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.exe
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.deps.json
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.runtimeconfig.json
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.dll
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.pdb
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\R\Projects\API projects\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.csproj.AssemblyReference.cache
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.AssemblyInfoInputs.cache
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.AssemblyInfo.cs
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.csproj.CoreCompileInputs.cache
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.MvcApplicationPartsAssemblyInfo.cs
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.MvcApplicationPartsAssemblyInfo.cache
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets.build.json
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets.development.json
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.Voter_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Voter_API.props
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Voter_API.props
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Voter_API.props
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\scopedcss\bundle\Voter_API.styles.css
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.csproj.Up2Date
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.dll
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\refint\Voter_API.dll
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.pdb
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.genruntimeconfig.cache
+D:\R\Projects\API projects\Voter_API\Voter_API\obj\Debug\net7.0\ref\Voter_API.dll
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\appsettings.Development.json
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\appsettings.json
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.exe
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.deps.json
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.runtimeconfig.json
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.dll
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.pdb
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\API\Voter_API\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.csproj.AssemblyReference.cache
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.AssemblyInfoInputs.cache
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.AssemblyInfo.cs
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.csproj.CoreCompileInputs.cache
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.Voter_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Voter_API.props
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Voter_API.props
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Voter_API.props
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\scopedcss\bundle\Voter_API.styles.css
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.csproj.Up2Date
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.dll
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\refint\Voter_API.dll
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.pdb
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.genruntimeconfig.cache
+D:\Projects\API\Voter_API\Voter_API\Voter_API\obj\Debug\net7.0\ref\Voter_API.dll
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\appsettings.Development.json
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\appsettings.json
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.exe
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.deps.json
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.runtimeconfig.json
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.dll
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.pdb
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\API\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.csproj.AssemblyReference.cache
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.AssemblyInfoInputs.cache
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.AssemblyInfo.cs
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.csproj.CoreCompileInputs.cache
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.Voter_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Voter_API.props
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Voter_API.props
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Voter_API.props
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\scopedcss\bundle\Voter_API.styles.css
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.csproj.Up2Date
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.dll
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\refint\Voter_API.dll
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.pdb
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.genruntimeconfig.cache
+D:\Projects\API\Voter_API\Voter_API\obj\Debug\net7.0\ref\Voter_API.dll
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\appsettings.Development.json
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\appsettings.json
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.exe
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.deps.json
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.runtimeconfig.json
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.dll
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\Voter_API.pdb
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.csproj.AssemblyReference.cache
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.AssemblyInfoInputs.cache
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.AssemblyInfo.cs
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.csproj.CoreCompileInputs.cache
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.Voter_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Voter_API.props
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Voter_API.props
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Voter_API.props
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\scopedcss\bundle\Voter_API.styles.css
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.csproj.Up2Date
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.dll
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\refint\Voter_API.dll
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.pdb
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\Voter_API.genruntimeconfig.cache
+D:\Projects\API\Voter API & UI\Voter_API\Voter_API\obj\Debug\net7.0\ref\Voter_API.dll

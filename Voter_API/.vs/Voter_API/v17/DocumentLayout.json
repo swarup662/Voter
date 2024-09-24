@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFFC2F1-D43C-457A-A421-31B272E3D6F3}|Voter_API\\Voter_API.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_api\\voter_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADFFC2F1-D43C-457A-A421-31B272E3D6F3}|Voter_API\\Voter_API.csproj|solutionrelative:voter_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFFC2F1-D43C-457A-A421-31B272E3D6F3}|Voter_API\\Voter_API.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_api\\voter_api\\repository\\voterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFFC2F1-D43C-457A-A421-31B272E3D6F3}|Voter_API\\Voter_API.csproj|solutionrelative:voter_api\\repository\\voterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFFC2F1-D43C-457A-A421-31B272E3D6F3}|Voter_API\\Voter_API.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_api\\voter_api\\controllers\\voterapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFFC2F1-D43C-457A-A421-31B272E3D6F3}|Voter_API\\Voter_API.csproj|solutionrelative:voter_api\\controllers\\voterapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFFC2F1-D43C-457A-A421-31B272E3D6F3}|Voter_API\\Voter_API.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_api\\voter_api\\models\\voterapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFFC2F1-D43C-457A-A421-31B272E3D6F3}|Voter_API\\Voter_API.csproj|solutionrelative:voter_api\\models\\voterapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFFC2F1-D43C-457A-A421-31B272E3D6F3}|Voter_API\\Voter_API.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_api\\voter_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFFC2F1-D43C-457A-A421-31B272E3D6F3}|Voter_API\\Voter_API.csproj|solutionrelative:voter_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFFC2F1-D43C-457A-A421-31B272E3D6F3}|Voter_API\\Voter_API.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_api\\voter_api\\interfaces\\ivoterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFFC2F1-D43C-457A-A421-31B272E3D6F3}|Voter_API\\Voter_API.csproj|solutionrelative:voter_api\\interfaces\\ivoterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFFC2F1-D43C-457A-A421-31B272E3D6F3}|Voter_API\\Voter_API.csproj|d:\\projects\\api\\voter api \u0026 ui\\voter_api\\voter_api\\utility\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFFC2F1-D43C-457A-A421-31B272E3D6F3}|Voter_API\\Voter_API.csproj|solutionrelative:voter_api\\utility\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_API\\Voter_API\\Program.cs",
+              "RelativeDocumentMoniker": "Voter_API\\Program.cs",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_API\\Voter_API\\Program.cs",
+              "RelativeToolTip": "Voter_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:30:03.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_API\\Voter_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Voter_API\\appsettings.json",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_API\\Voter_API\\appsettings.json",
+              "RelativeToolTip": "Voter_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T07:18:50.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VoterAPIController.cs",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_API\\Voter_API\\Controllers\\VoterAPIController.cs",
+              "RelativeDocumentMoniker": "Voter_API\\Controllers\\VoterAPIController.cs",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_API\\Voter_API\\Controllers\\VoterAPIController.cs",
+              "RelativeToolTip": "Voter_API\\Controllers\\VoterAPIController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:23:37.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoterAPIModel.cs",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_API\\Voter_API\\Models\\VoterAPIModel.cs",
+              "RelativeDocumentMoniker": "Voter_API\\Models\\VoterAPIModel.cs",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_API\\Voter_API\\Models\\VoterAPIModel.cs",
+              "RelativeToolTip": "Voter_API\\Models\\VoterAPIModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:25:47.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoterRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_API\\Voter_API\\Repository\\VoterRepository.cs",
+              "RelativeDocumentMoniker": "Voter_API\\Repository\\VoterRepository.cs",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_API\\Voter_API\\Repository\\VoterRepository.cs",
+              "RelativeToolTip": "Voter_API\\Repository\\VoterRepository.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAcwFIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:27:30.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVOTERRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_API\\Voter_API\\Interfaces\\IVOTERRepository.cs",
+              "RelativeDocumentMoniker": "Voter_API\\Interfaces\\IVOTERRepository.cs",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_API\\Voter_API\\Interfaces\\IVOTERRepository.cs",
+              "RelativeToolTip": "Voter_API\\Interfaces\\IVOTERRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:02:35.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbAccess.cs",
+              "DocumentMoniker": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_API\\Voter_API\\Utility\\DbAccess.cs",
+              "RelativeDocumentMoniker": "Voter_API\\Utility\\DbAccess.cs",
+              "ToolTip": "D:\\Projects\\API\\Voter API \u0026 UI\\Voter_API\\Voter_API\\Utility\\DbAccess.cs",
+              "RelativeToolTip": "Voter_API\\Utility\\DbAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:58:58.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

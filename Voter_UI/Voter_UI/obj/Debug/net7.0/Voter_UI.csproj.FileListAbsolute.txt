@@ -1,0 +1,66 @@
+D:\Projects\API\Voter_UI\Voter_UI\bin\Debug\net7.0\appsettings.Development.json
+D:\Projects\API\Voter_UI\Voter_UI\bin\Debug\net7.0\appsettings.json
+D:\Projects\API\Voter_UI\Voter_UI\bin\Debug\net7.0\Voter_UI.staticwebassets.runtime.json
+D:\Projects\API\Voter_UI\Voter_UI\bin\Debug\net7.0\Voter_UI.exe
+D:\Projects\API\Voter_UI\Voter_UI\bin\Debug\net7.0\Voter_UI.deps.json
+D:\Projects\API\Voter_UI\Voter_UI\bin\Debug\net7.0\Voter_UI.runtimeconfig.json
+D:\Projects\API\Voter_UI\Voter_UI\bin\Debug\net7.0\Voter_UI.dll
+D:\Projects\API\Voter_UI\Voter_UI\bin\Debug\net7.0\Voter_UI.pdb
+D:\Projects\API\Voter_UI\Voter_UI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.csproj.AssemblyReference.cache
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.AssemblyInfoInputs.cache
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.AssemblyInfo.cs
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.csproj.CoreCompileInputs.cache
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.RazorAssemblyInfo.cache
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.RazorAssemblyInfo.cs
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\staticwebassets\msbuild.Voter_UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\staticwebassets\msbuild.build.Voter_UI.props
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Voter_UI.props
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Voter_UI.props
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\scopedcss\bundle\Voter_UI.styles.css
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\scopedcss\projectbundle\Voter_UI.bundle.scp.css
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.csproj.Up2Date
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.dll
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\refint\Voter_UI.dll
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.pdb
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.genruntimeconfig.cache
+D:\Projects\API\Voter_UI\Voter_UI\obj\Debug\net7.0\ref\Voter_UI.dll
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\bin\Debug\net7.0\appsettings.Development.json
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\bin\Debug\net7.0\appsettings.json
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\bin\Debug\net7.0\Voter_UI.staticwebassets.runtime.json
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\bin\Debug\net7.0\Voter_UI.exe
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\bin\Debug\net7.0\Voter_UI.deps.json
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\bin\Debug\net7.0\Voter_UI.runtimeconfig.json
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\bin\Debug\net7.0\Voter_UI.dll
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\bin\Debug\net7.0\Voter_UI.pdb
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.csproj.AssemblyReference.cache
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.AssemblyInfoInputs.cache
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.AssemblyInfo.cs
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.csproj.CoreCompileInputs.cache
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.RazorAssemblyInfo.cache
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.RazorAssemblyInfo.cs
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\staticwebassets\msbuild.Voter_UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\staticwebassets\msbuild.build.Voter_UI.props
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Voter_UI.props
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Voter_UI.props
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\scopedcss\bundle\Voter_UI.styles.css
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\scopedcss\projectbundle\Voter_UI.bundle.scp.css
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.csproj.Up2Date
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.dll
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\refint\Voter_UI.dll
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.pdb
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\Voter_UI.genruntimeconfig.cache
+D:\Projects\API\Voter API & UI\Voter_UI\Voter_UI\obj\Debug\net7.0\ref\Voter_UI.dll
